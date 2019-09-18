@@ -1,0 +1,40 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    margin: 0px;
+    color:#c12258;
+    
+  }
+  h1{
+    
+    font-size: 2em;
+    line-height: 1.5em;
+    color: #c12258;
+  }
+  p{
+    color: black;
+    font-size: 18px;
+    padding-top: 15px;
+  }
+
+  img{
+    
+    display: block;
+    width: 550px;
+    justify-content: center; 
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div{
+  min-height: 100px; 
+  padding: 30px; 
+}
+  
+  footer{
+    
+    color: white;
+    background-color:black;
+    padding-bottom: 15px; 
+    text-align: center;
+  }
+  
